@@ -8,7 +8,7 @@
   <a href="mailto:moreiraleo700@gmail.com">
     <img height="35" width="40" align="left" alt="Leo-email" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> 
   </a>
-  <a href="www.linkedin.com/in/lmr18">
+  <a href="www.linkedin.com/in/leonardo-moreira-rodrigues-9516a9205">
     <img  width="30" alt="Leo-linkedin" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"> 
   </a>
 </div>
