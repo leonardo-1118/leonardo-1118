@@ -8,8 +8,8 @@
   <a href="mailto:moreiraleo700@gmail.com">
     <img height="35" width="40" align="left" alt="Leo-email" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> 
   </a>
-  <a href="www.linkedin.com/in/lmr18">
-    <img  width="30" alt="Leo-linkedin" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"> 
+  <a href="https://www.linkedin.com/in/lmr18">
+    <img height="30" align="left" alt="Leo-linkedin" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> 
   </a>
 </div>
 
@@ -17,7 +17,6 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://devicons.railway.app/i/javascript.svg">
-  <img align="center" alt="Leo-TypeScript" height="30" width="40" src="https://devicons.railway.app/i/typescript.svg">
   <img align="center" alt="Leo-React" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://devicons.railway.app/i/html5.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://devicons.railway.app/i/css3.svg">
