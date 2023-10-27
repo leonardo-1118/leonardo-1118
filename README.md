@@ -5,13 +5,19 @@
 
 <h2>Contatos:</h2>
 <div>
+  
   <a href="mailto:moreiraleo700@gmail.com">
     <img height="35" width="40" align="left" alt="Leo-email" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> 
   </a>
+  
   <a href="https://www.linkedin.com/in/lmr18">
-    <img height="30" align="left" alt="Leo-linkedin" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> 
+    <img height="30" align="left" alt="Leo-linkedin" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"> 
   </a>
+  
 </div>
+
+<br>
+<br>
 
 <h2>Linguagens e ferramentas:</h2>
 
