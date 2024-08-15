@@ -39,6 +39,6 @@
 ```javascript
 const Leonardo = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Node.Js Styled-Components]
+  tools: [React, Node, Styled-Components]
 }
 ```
