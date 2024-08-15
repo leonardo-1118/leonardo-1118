@@ -33,11 +33,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-1118&layout=compact)
 
-<div style="width: 500px">
   ```javascript
   const Leonardo = {
     code: [Javascript, HTML, CSS],
     tools: [React, Node, Styled-Components]
   }
   ```
-</div>
