@@ -31,11 +31,8 @@
 </div>
 <br>
 
-![Leonardo stats](https://github-readme-stats.vercel.app/api?username=leonardo-1118&show_icons=true&bg_color=00000000)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-1118&layout=compact)
+
 ```javascript
 const Leonardo = {
   code: [Javascript, HTML, CSS],
